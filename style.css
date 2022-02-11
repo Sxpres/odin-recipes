@@ -1,0 +1,22 @@
+.tittle {
+    background-color: black ;
+    color: white;
+    font-family: "Times New Roman", Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.img {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    background-color: rgb(255, 105, 85);
+    font-family:"Times New Roman", Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
